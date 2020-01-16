@@ -62,6 +62,7 @@ dependencies {
     RecyclerView()
     ConstraintLayout()
     JUnit()
+    MockK()
     RxAndroid()
     RxJava()
     RxKotlin()
