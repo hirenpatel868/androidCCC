@@ -63,6 +63,7 @@ dependencies {
     ConstraintLayout()
     JUnit()
     MockK()
+    ArcXTesting()
     RxAndroid()
     RxJava()
     RxKotlin()
